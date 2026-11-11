@@ -1,0 +1,15 @@
+# Dépendances principales
+customtkinter==5.2.0
+Pillow==10.1.0
+
+# Base de données et données
+pandas==2.1.4
+openpyxl==3.1.2
+numpy==1.26.2
+
+# Graphiques et rapports
+matplotlib==3.8.2
+reportlab==4.0.7
+
+# Utilitaires
+python-dateutil==2.8.2
