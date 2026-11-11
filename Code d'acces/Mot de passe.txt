@@ -1,0 +1,12 @@
+ID Employé     Mot de passe 
+ADMIN001       Admin@2026 
+
+Ressource Humain
+RH001 		Rh@2026 
+
+Employé
+EMP24001   Password@2026 
+
+
+Manager
+MGR001      Manager@2026

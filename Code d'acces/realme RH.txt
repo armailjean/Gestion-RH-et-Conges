@@ -1,0 +1,5 @@
+ POUR LANCER LE LOGICIEL
+1. Placez le dossier app où vous voulez
+2. À l'interieur de dossier vous trouver un fichier executable app.exe double-cliquez sur :
+app.exe pour lancher logiciel CLINIK RH ENTERPRISE 2026
+3. Si vous voulez seulement placer le fichier app.exe sur le bureau, alors deplacer le fichier qui contient app et tous les rester dans disque "C:\Program Files" puis copier " app.exe " sur le bureau.
